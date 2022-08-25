@@ -3,7 +3,7 @@ Hi 👋 My name is Lynette Mwangi
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [lynettewanjiru7@gmail.com](mailto:lynettewanjiru7@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Java
 
 ### Skills
 
