@@ -1,9 +1,7 @@
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  CYPHERPUNKS WRITE CODE · MATH IS THE ONLY LAW               ║
-║  TRUST NO ONE · VERIFY EVERYTHING · PRIVACY IS NOT A CRIME   ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+> *"Cypherpunks write code."*
+> — Eric Hughes, A Cypherpunk's Manifesto, 1993
+
+Privacy tools. Open protocols. Trustless systems. The rest is noise.
 
 # Lynette Mwangi
 
@@ -11,27 +9,13 @@
 
 *Building systems where trust is enforced by math, not men.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=ZK+proofs.+Cross-chain+protocols.+Verifiable+trust.;Rust+%7C+Python+%7C+Noir+%7C+JavaScript+%7C+TypeScript;Polkadot+Blockchain+Academy+%E2%80%94+Distinction;Cypherpunk+by+conviction%2C+engineer+by+craft.)](https://github.com/Lynette7)
-
-</div>
-
 ---
 
 ## stack
 
 ```
 lang    →  Rust · Python · TypeScript · JavaScript
-zk      →  Noir · Circom · Groth16 · PLONK
 ```
-
----
-
-## creed
-
-> *"Cypherpunks write code."*
-> — Eric Hughes, A Cypherpunk's Manifesto, 1993
-
-Privacy tools. Open protocols. Trustless systems. The rest is noise.
 
 ---
 
