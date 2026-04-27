@@ -5,7 +5,7 @@
 
 **Blockchain Engineer · Programmable Cryptography · Protocol Designer**
 
-*Building systems where trust is enforced by math, not men.*
+*Building systems where trust is enforced by math, not men. Math is the only law.*
 
 ---
 
