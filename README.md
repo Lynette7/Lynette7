@@ -1,22 +1,57 @@
-Hi 👋 My name is Lynette Mwangi
-===============================
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  CYPHERPUNKS WRITE CODE · MATH IS THE ONLY LAW               ║
+║  TRUST NO ONE · VERIFY EVERYTHING · PRIVACY IS NOT A CRIME   ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [lynettewanjiru7@gmail.com](mailto:lynettewanjiru7@gmail.com)
-* 🧠  I'm learning Rust 🦀
+# Lynette Mwangi
 
-### Socials
+**Blockchain Engineer · Programmable Cryptography · Protocol Designer**
 
-<p align="left"> <a href="https://www.github.com/Lynette7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+*Building systems where trust is enforced by math, not men.*
 
-### Badges
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=ZK+proofs.+Cross-chain+protocols.+Verifiable+trust.;Rust+%7C+Python+%7C+Noir+%7C+JavaScript+%7C+TypeScript;Polkadot+Blockchain+Academy+%E2%80%94+Distinction;Cypherpunk+by+conviction%2C+engineer+by+craft.)](https://github.com/Lynette7)
 
-<b>My GitHub Stats</b>
+</div>
 
-<a href="http://www.github.com/Lynette7"><img src="https://github-readme-stats.vercel.app/api?username=Lynette7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lynette7's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/Lynette7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lynette7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## stack
 
-<a href="http://www.github.com/Lynette7"><img src="https://activity-graph.herokuapp.com/graph?username=Lynette7&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+```
+lang    →  Rust · Python · TypeScript · JavaScript
+zk      →  Noir · Circom · Groth16 · PLONK
+```
 
-<a href="https://github.com/Lynette7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynette7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## creed
+
+> *"Cypherpunks write code."*
+> — Eric Hughes, A Cypherpunk's Manifesto, 1993
+
+Privacy tools. Open protocols. Trustless systems. The rest is noise.
+
+---
+
+## find me
+
+```
+github    →  github.com/Lynette7
+x/twitter →  @Lynette_mwangi
+dot addr  →  12jNpHxcBibMb71GyaqeHZTCQfxLSes7gDGqyj4BvZZhaYrH
+email     →  lynettewanjiru7@gmail.com
+```
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lynette7&show_icons=true&count_private=true&title_color=00ff41&text_color=ffffff&icon_color=00ff41&bg_color=0d1117&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lynette7&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=8b949e&dates=484f58&stroke=21262d)](https://github.com/Lynette7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynette7&langs_count=6&title_color=00ff41&text_color=ffffff&icon_color=00ff41&bg_color=0d1117&hide_border=true&layout=compact)
+
+</div>
